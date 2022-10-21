@@ -57,3 +57,4 @@ for roots,dirs,files in os.walk('间开井数据'):
         # plt.savefig(save_path)
         # plt.close()
 
+#这里做了了修改
